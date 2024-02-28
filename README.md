@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ilyarvv
 - 👀 I’m interested in crypto
-- 🌱 I’m currently learning Solidity
+- 🌱 I’m currently learning W3
 
 
 
